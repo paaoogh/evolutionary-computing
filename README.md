@@ -1,2 +1,2 @@
 # evolutionary-computing
-Evolutionary computation algorithm for course. 
+Evolutionary computation algorithms for the subject "Cómputo Evolutivo" 
